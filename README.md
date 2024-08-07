@@ -1,5 +1,5 @@
 # Welcome ! 👋
-![LegendSpam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendSpam&show_icons=true&theme=radical)
+![cicero343's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicero343&show_icons=true&theme=radical)
 
 ## 🔗 Links
 

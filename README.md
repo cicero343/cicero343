@@ -1,6 +1,5 @@
 # Welcome ! 👋
 
-<script src="https://tryhackme.com/badge/2125035"></script>
 ![cicero343's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicero343&show_icons=true&theme=radical)
 
 ## 🔗 Links
